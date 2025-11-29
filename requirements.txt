@@ -1,0 +1,7 @@
+streamlit
+pandas
+sentence-transformers
+chromadb
+pdfplumber
+docx2txt
+google-generativeai
